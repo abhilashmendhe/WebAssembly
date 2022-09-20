@@ -1,0 +1,5 @@
+emsdk is like a compiler which will compile your C/C++ code to binary so one can run than on the browser.
+
+do emcc file.c
+
+The above command creates two file one is a.out.js and a.out.wasm (binary file)
